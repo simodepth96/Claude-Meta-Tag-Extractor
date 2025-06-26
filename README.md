@@ -1,7 +1,7 @@
 # Claude Meta Data Extractor
 In this repository, you will find the raw Python code I used to transform structured JSON data into readable text-based content in the form of an Excel table.
 
-- 🔗 [GitHub: Perplexity Linked Citations](https://github.com/simodepth96/Perplexity-Meta-Data-Extractor/blob/main/linked_citations.py)
+- 🔗 [GitHub: Claude Raw Python Code](https://github.com/simodepth96/Claude-Meta-Tag-Extractor/blob/main/raw.py)
 
 A Streamlit app is also available as a shortcut. Just load your JSON export straight into the app and it'll extract insights in a table-based format.
 - 🔗 [Claude Meta Data Extractor (Streamlit)](https://claude-meta-tag-extractor.streamlit.app/)
